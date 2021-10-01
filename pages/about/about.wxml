@@ -1,0 +1,24 @@
+<!--pages/about/about.wxml-->
+<view>
+  <view class="banner">
+    <view class="banner_bg"></view>
+    <view class="about_header_img">
+     <image src="https://img.bosszhipin.com/beijin/mcs/useravatar/20190429/50cb897284f64ee911746a8e7e7c0ec5d1642327b94fd3f8c5b8c3ab1d849239_s.jpg"></image>
+     <text>Mr.Cho</text>
+    </view>
+  </view>
+  <!-- 工具栏 -->
+  <view class="about_mid">
+    <text class="about_title">个人简介</text>
+    <text class="about_cv">毕业于四川音乐学院视觉传达设计专业，拥有11年企业服务项目经验，在视觉传达、用户体验、需求分析等方面拥有丰富的经验。</text>
+  </view>
+  <view class="about_mid">
+    <text class="about_title">合作品牌</text>
+    <text class="about_cv">Intel、Accenture、海尔、西武集团、万代、华为、中国日报、新华社、深圳燃气、中国航空、全日空航空、日本国税厅、深交所、武藏油封工业、日本建设组合联合、新日本建贩株式会社等。</text>
+  </view>
+  <view class="about_mid">
+    <text class="about_title">与我联系</text>
+    <text class="about_cv, social">citi1985@hotmail.com</text>
+  </view>
+</view>
+

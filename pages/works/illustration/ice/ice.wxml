@@ -1,0 +1,9 @@
+<!--pages/works/illustration/ice/ice.wxml-->
+<view class="works_mid">
+  <image class="works_mid2" style="height:2600rpx" src="https://cdn.gtn9.com/22-05-2021/889675C33A8D4552AADEF9411FEE.jpg?x-oss-process=image/resize,w_1088"></image>
+  <image class="works_mid2" style="height:2400rpx" src="https://cdn.gtn9.com/22-05-2021/185FFF593FA34E58904EEC9AF586.jpg?x-oss-process=image/resize,w_1088"></image>
+  <image class="works_mid2" style="height:2400rpx" src="https://cdn.gtn9.com/22-05-2021/EE825F8CD6EF4D68BB3311DF30B1.jpg?x-oss-process=image/resize,w_1088"></image>
+  <image class="works_mid2" style="height:2200rpx" src="https://cdn.gtn9.com/22-05-2021/3A583737FA334BB1BE367CF56FA4.jpg?x-oss-process=image/resize,w_1088"></image>
+  <image class="works_mid2" style="height:2400rpx" src="https://cdn.gtn9.com/22-05-2021/C3E0B203DC074A9496C7C2DFFB0A.jpg?x-oss-process=image/resize,w_1088"></image>
+</view>
+

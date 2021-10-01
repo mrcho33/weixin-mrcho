@@ -1,0 +1,13 @@
+/* pages/works/ui/katuobushi/katuobushi.wxss */
+.works_mid2{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 520rpx;
+}
+.works_mid3{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 2800rpx;
+}

@@ -1,0 +1,10 @@
+<!--pages/works/graphic/touch/touch.wxml-->
+<view class="works_mid">
+  <image class="works_mid2" style="height:1100rpx" src="https://img.zcool.cn/community/01c7865af4fb32a801216045850696.jpg@1280w_1l_2o_100sh.jpg"></image>
+  <image class="works_mid2" style="height:520rpx" src="https://img.zcool.cn/community/0175285af52880a801216045fbbe48.jpg@1280w_1l_2o_100sh.jpg"></image>
+  <image class="works_mid2" style="height:540rpx" src="https://img.zcool.cn/community/01ed415af51f10a801207ab459bba7.jpg@1280w_1l_2o_100sh.jpg"></image>
+  <image class="works_mid2" style="height:540rpx" src="https://img.zcool.cn/community/0136cd5af51f07a801207ab47cf0ab.jpg@1280w_1l_2o_100sh.jpg"></image>
+  <image class="works_mid2" style="height:540rpx" src="https://img.zcool.cn/community/01d42d5af542b6a8012160456f8c8e.jpg@1280w_1l_2o_100sh.jpg"></image>
+  <image class="works_mid2" style="height:900rpx" src="https://img.zcool.cn/community/0128b45af51db2a801207ab4345c70.jpg@1280w_1l_2o_100sh.jpg"></image>
+  <image class="works_mid2" style="height:520rpx" src="https://img.zcool.cn/community/0183f65af50107a80121604512a680.jpg@1280w_1l_2o_100sh.jpg"></image>
+</view>

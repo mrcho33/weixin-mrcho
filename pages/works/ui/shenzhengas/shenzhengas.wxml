@@ -1,0 +1,5 @@
+<!--pages/works/ui/shenzhengas/shenzhengas.wxml-->
+<view class="works_mid">
+  <image class="works_mid2" style="height:2800rpx" src="https://img.zcool.cn/community/01cd6f60330ed411013f374522f1d1.png@1280w_1l_2o_100sh.png"></image>
+  <image class="works_mid2" style="height:520rpx" src="https://img.zcool.cn/community/01085460330f2211013ef90fb1cc59.gif"></image>
+</view>

@@ -1,0 +1,11 @@
+<!--pages/works/photograph/japanesekuoku/japanesekuoku.wxml-->
+<view class="works_mid">
+  <image class="works_mid2" src="https://img.zcool.cn/community/0188895b99c427a801213dea1aeb39.jpg@1280w_1l_2o_100sh.jpg"></image>
+  <image class="works_mid2" src="https://img.zcool.cn/community/01260d5b99c42ba801213deadf8822.jpg@1280w_1l_2o_100sh.jpg"></image>
+  <image class="works_mid2" src="https://img.zcool.cn/community/01fe845b99c429a8012099c855ead1.jpg@1280w_1l_2o_100sh.jpg"></image>
+  <image class="works_mid2" src="https://img.zcool.cn/community/01bb375b99c440a8012099c88c3d91.jpg@1280w_1l_2o_100sh.jpg"></image>
+  <image class="works_mid2" src="https://img.zcool.cn/community/0132d85b99c441a801213dead09597.jpg@1280w_1l_2o_100sh.jpg"></image>
+  <image class="works_mid2" src="https://img.zcool.cn/community/0102f95b99c441a8012099c89b9c7a.jpg@1280w_1l_2o_100sh.jpg"></image>
+  <image class="works_mid2" src="https://img.zcool.cn/community/01e8d15b99c448a8012099c82d2e3d.jpg@1280w_1l_2o_100sh.jpg"></image>
+</view>
+

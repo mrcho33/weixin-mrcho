@@ -1,0 +1,7 @@
+<!--pages/works/illustration/qukiyoe/qukiyoe.wxml-->
+<view class="works_mid">
+  <image class="works_mid2" src="https://img.zcool.cn/community/01f3755cecd590a801209aa0057d40.jpg@1280w_1l_2o_100sh.jpg"></image>
+  <image class="works_mid2" src="https://img.zcool.cn/community/012bc85cecd596a801209aa0189828.jpg@1280w_1l_2o_100sh.jpg"></image>
+  <image class="works_mid2" src="https://img.zcool.cn/community/0136535cecd599a80121a47007e9b0.jpg@1280w_1l_2o_100sh.jpg"></image>
+</view>
+

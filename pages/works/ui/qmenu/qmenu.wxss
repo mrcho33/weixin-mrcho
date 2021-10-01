@@ -1,0 +1,23 @@
+/* pages/works/ui/qmenu/qmenu.wxss */
+.works_mid{
+  width: 100%;
+  height: 100%;
+}
+.works_mid1{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 2100rpx;
+}
+.works_mid2{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 520rpx;
+}
+.works_mid3{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 2500rpx;
+}

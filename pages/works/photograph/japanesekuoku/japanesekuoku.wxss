@@ -1,0 +1,7 @@
+/* pages/works/photograph/japanesekuoku/japanesekuoku.wxss */
+.works_mid2{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 520rpx;
+}

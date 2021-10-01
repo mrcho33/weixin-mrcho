@@ -1,0 +1,11 @@
+<!--pages/works/code/code_list/code_list.wxml-->
+<view class="list">
+  <view bindtap="goKatuobushi" class="list_view">
+    <image src="https://img.zcool.cn/community/0186305b0cb827a8012043d8350a9c.jpeg@260w_195h_1c_1e_1o_100sh.jpg"></image>
+    <text>KATSUO-BUSHI</text>
+  </view>
+  <view class="list_view" bindtap="goRise">
+    <image  src="https://img.zcool.cn/community/01120e603350eb11013f374536f7b6.jpg@260w_195h_1c_1e_1o_100sh.jpg"></image>
+    <text>RiSE</text>
+  </view>
+</view>

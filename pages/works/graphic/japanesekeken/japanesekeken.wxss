@@ -1,0 +1,6 @@
+/* pages/works/graphic/japanesekeken/japanesekeken.wxss */
+.works_mid2{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}

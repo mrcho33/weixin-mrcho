@@ -1,0 +1,7 @@
+/* pages/works/illustration/qukiyoe/qukiyoe.wxss */
+.works_mid2{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 640rpx;
+}

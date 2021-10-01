@@ -1,0 +1,27 @@
+/* pages/works/code/code_list/code_list.wxss */
+.list{
+  padding-top: 30rpx;
+  padding-bottom: 30rpx;
+  background-color: #f8f8f8;
+  min-height: 1400rpx;
+  width: 100%;
+}
+.list_view{
+  margin: 0 auto 30rpx auto;
+  width:80%;
+  height: 460rpx;
+  background-color: #ffffff;
+  border-radius: 20rpx;
+}
+.list_view image{
+  border-radius: 20rpx 20rpx 0 0 ;
+  width:100%;
+  height: 380rpx;
+}
+.list_view text{
+  padding-left: 30rpx;
+  line-height: 60rpx;
+  display: block;
+  font-size: 32rpx;
+  font-weight: bold;
+}

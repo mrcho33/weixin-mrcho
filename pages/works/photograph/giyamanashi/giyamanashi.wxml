@@ -1,0 +1,9 @@
+<!--pages/works/photograph/giyamanashi/giyamanashi.wxml-->
+<view class="works_mid">
+  <image class="works_mid2" src="https://img.zcool.cn/community/01c49c5ab996fba801218207fcee1a.jpg@1280w_1l_2o_100sh.jpg"></image>
+  <image class="works_mid2" src="https://img.zcool.cn/community/0151625ab994bca8012062e3a2ced0.jpg@1280w_1l_2o_100sh.jpg"></image>
+  <image class="works_mid2" src="https://img.zcool.cn/community/01af5b5ab994c4a8012062e3402212.jpg@1280w_1l_2o_100sh.jpg"></image>
+  <image class="works_mid2" src="https://img.zcool.cn/community/01f18d5ab994aea8012062e3bed9d6.jpg@1280w_1l_2o_100sh.jpg"></image>
+  <image class="works_mid2" src="https://img.zcool.cn/community/012b745ab9951ca8012062e37cb3d4.jpg@1280w_1l_2o_100sh.jpg"></image>
+  <image class="works_mid2" src="https://img.zcool.cn/community/0197e75ab994fda801218207f9d4ee.jpg@1280w_1l_2o_100sh.jpg"></image>
+</view>

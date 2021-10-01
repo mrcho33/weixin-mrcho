@@ -1,0 +1,6 @@
+/* pages/works/illustration/ice/ice.wxss */
+.works_mid2{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}

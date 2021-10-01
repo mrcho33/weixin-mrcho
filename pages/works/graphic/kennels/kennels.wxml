@@ -1,0 +1,9 @@
+<!--pages/works/graphic/kennels/kennels.wxml-->
+<view class="works_mid">
+  <image class="works_mid2" src="https://img.zcool.cn/community/0146995b8f8056a80121a0f7e0b03c.jpg@1280w_1l_2o_100sh.jpg"></image>
+  <image class="works_mid2" src="https://img.zcool.cn/community/016fff5b8f7efda8012017ee5f878e.jpg@1280w_1l_2o_100sh.jpg"></image>
+  <image class="works_mid2" src="https://img.zcool.cn/community/0100745b8f7e92a8012017eee124b1.png@1280w_1l_2o_100sh.png"></image>
+  <image class="works_mid2" src="https://img.zcool.cn/community/0173265b8f7e8ea80121a0f7cf1376.png@1280w_1l_2o_100sh.png"></image>
+  <image class="works_mid2" src="https://img.zcool.cn/community/0199565b8f7ea1a80121a0f7b3a1b4.png@1280w_1l_2o_100sh.png"></image>
+  <image class="works_mid3" src="https://img.zcool.cn/community/0169485b8f7ebda80121a0f78d4d48.png@1280w_1l_2o_100sh.png"></image>
+</view>

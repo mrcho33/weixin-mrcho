@@ -1,0 +1,6 @@
+<!--pages/works/ui/qmenu/qmenu.wxml-->
+<view class="works_mid">
+  <image class="works_mid1" src="https://img.zcool.cn/community/012cee5d9e89f5a8012060be1ebf19.jpg@1280w_1l_2o_100sh.jpg"></image>
+  <image class="works_mid2" src="https://img.zcool.cn/community/0102bf5d9e89ffa8012060bed40442.gif"></image>
+  <image class="works_mid3" src="https://img.zcool.cn/community/01bf075d9e8a04a801211d532bfbfb.jpg@1280w_1l_2o_100sh.jpg"></image>
+</view>

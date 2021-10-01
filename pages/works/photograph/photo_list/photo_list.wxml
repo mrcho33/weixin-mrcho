@@ -1,0 +1,11 @@
+<!--pages/works/photograph/photo_list/photo_list.wxml-->
+<view class="list">
+  <view bindtap="goGiyamanashi" class="list_view">
+    <image src="https://img.zcool.cn/community/01930b5ad89454a801204029c15d4d.jpeg@260w_195h_1c_1e_1o_100sh.jpg"></image>
+    <text>Gi Yamanashi</text>
+  </view>
+  <view bindtap="goJapanesekuoku" class="list_view">
+    <image src="https://img.zcool.cn/community/01cfec5b99c48fa8012099c8a80cba.jpg@260w_195h_1c_1e_1o_100sh.jpg"></image>
+    <text>日本の国境離島横丁</text>
+  </view>
+</view>

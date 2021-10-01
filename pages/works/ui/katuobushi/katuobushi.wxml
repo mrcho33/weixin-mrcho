@@ -1,0 +1,5 @@
+<!--pages/works/ui/katuobushi/katuobushi.wxml-->
+<view class="works_mid">
+  <image class="works_mid2" src="https://img.zcool.cn/community/015d835b0cb6e9a8012181b0cb8927.jpg@1280w_1l_2o_100sh.jpg"></image>
+  <image class="works_mid3" src="https://img.zcool.cn/community/0152835b0cb6e5a8012181b039a3d1.jpg@1280w_1l_2o_100sh.jpg"></image>
+</view>

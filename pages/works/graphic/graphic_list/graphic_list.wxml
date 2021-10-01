@@ -1,0 +1,15 @@
+<!--pages/works/graphic/graphic_list/graphic_list.wxml-->
+<view class="list">
+  <view class="list_view" bindtap="goKennels">
+    <image  src="https://img.zcool.cn/community/015a1c5b8f7fdba80121a0f745a502.jpg@260w_195h_1c_1e_1o_100sh.jpg"></image>
+    <text>The Kennels Tokyo</text>
+  </view>
+  <view bindtap="goTouch" class="list_view">
+    <image src="https://img.zcool.cn/community/01a5335af514a5a801216045fb8405.jpeg@260w_195h_1c_1e_1o_100sh.jpg"></image>
+    <text>Touch Organic</text>
+  </view>
+  <view bindtap="goJapanesekeken" class="list_view">
+    <image src="https://img.zcool.cn/community/01ef3c5af8ea0ea801216045b3baee.jpeg@260w_195h_1c_1e_1o_100sh.jpg"></image>
+    <text>日本建设连合50年画册</text>
+  </view>
+</view>

@@ -1,0 +1,12 @@
+<!--pages/works/works.wxml-->
+<view>
+  <text></text>
+  <!-- 工具栏 -->
+  <view class="toolsbar">
+    <view class="toolsBarMid">
+      <view class="toolsBarIco" bindtap="goHome"></view>
+      <view class="toolsBarIco" bindtap="goWorks"></view>
+      <view class="toolsBarIco" bindtap="goAbout"></view>
+    </view>
+  </view>
+</view>

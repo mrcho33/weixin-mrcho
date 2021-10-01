@@ -1,0 +1,9 @@
+<!--pages/works/graphic/japanesekeken/japanesekeken.wxml-->
+<view class="works_mid">
+  <image class="works_mid2" style="height:520rpx" src="https://img.zcool.cn/community/01d1c75af8e8f5a801216045cd6753.jpg@1280w_1l_2o_100sh.jpg"></image>
+  <image class="works_mid2" style="height:520rpx" src="https://img.zcool.cn/community/0104f75af8ea9fa801207ab411850b.jpg@1280w_1l_2o_100sh.jpg"></image>
+  <image class="works_mid2" style="height:520rpx" src="https://img.zcool.cn/community/01daa05af8e8d2a801207ab42d0155.jpg@1280w_1l_2o_100sh.jpg"></image>
+  <image class="works_mid2" style="height:520rpx" src="https://img.zcool.cn/community/01ceab5af8e8c8a80121604518784e.jpg@1280w_1l_2o_100sh.jpg"></image>
+  <image class="works_mid2" style="height:520rpx" src="https://img.zcool.cn/community/01e1005af8e8a9a801207ab4b1efd1.jpg@1280w_1l_2o_100sh.jpg"></image>
+  <image class="works_mid2" style="height:520rpx" src="https://img.zcool.cn/community/01652b5af8e8b6a801207ab4c2e9b7.jpg@1280w_1l_2o_100sh.jpg"></image>
+</view>

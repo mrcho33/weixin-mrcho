@@ -1,0 +1,8 @@
+/* pages/works/ui/rise/rise.wxss */
+.works_mid{
+  background-image: url('https://img.zcool.cn/community/01c80f6033509411013f3745217635.jpg@1280w_1l_2o_100sh.jpg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 3000rpx;
+}

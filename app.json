@@ -1,0 +1,31 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/works/works",
+    "pages/about/about",
+    "pages/works/ui/rise/rise",
+    "pages/works/ui/qmenu/qmenu",
+    "pages/works/graphic/kennels/kennels",
+    "pages/works/ui/katuobushi/katuobushi",
+    "pages/works/photograph/giyamanashi/giyamanashi",
+    "pages/works/illustration/qukiyoe/qukiyoe",
+    "pages/works/graphic/touch/touch",
+    "pages/works/illustration/ice/ice",
+    "pages/works/graphic/graphic_list/graphic_list",
+    "pages/works/illustration/illustration_list/illustration_list",
+    "pages/works/ui/ui_list/ui_list",
+    "pages/works/code/code_list/code_list",
+    "pages/works/photograph/photo_list/photo_list",
+    "pages/works/photograph/japanesekuoku/japanesekuoku",
+    "pages/works/graphic/japanesekeken/japanesekeken",
+    "pages/works/ui/shenzhengas/shenzhengas"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Mr.Cho",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

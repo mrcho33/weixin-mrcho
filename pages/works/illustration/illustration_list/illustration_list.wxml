@@ -1,0 +1,11 @@
+<!--pages/works/illustration/illustration_list/illustration_list.wxml-->
+<view class="list">
+  <view class="list_view" bindtap="goQukiyoe">
+    <image  src="https://img.zcool.cn/community/01d6455cecd5efa801209aa04ffa1f.jpg@260w_195h_1c_1e_1o_100sh.jpg"></image>
+    <text>Q版浮世绘</text>
+  </view>
+  <view bindtap="goIce" class="list_view">
+    <image src="https://imglf5.lf127.net/img/VkFZR1QyQmtqUFgrNkJrYXc2eXMwN1JOZXljM2NTc0I4N0lUOXUxUS9ETHNLa2Yya3pKa0NRPT0.jpg?imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2&text=wqkg5o-S55S75biIQ2hvIC8gbXJjaG8zMy5sb2Z0ZXIuY29t&font=bXN5aA==&gravity=southwest&dissolve=30&fontsize=240&dx=8&dy=10&stripmeta=0"></image>
+    <text>冰无魂</text>
+  </view>
+</view>
